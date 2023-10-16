@@ -1,0 +1,1 @@
+{"version":3,"file":"kinship-not-found-error.js","sourceRoot":"","sources":["../../../../../src/application/use-cases/errors/kinship-not-found-error.ts"],"names":[],"mappings":";;;AAAA,MAAa,oBAAqB,SAAQ,KAAK;IAC7C,YAAY,aAAqB;QAC/B,KAAK,CACH,iDAAiD,aAAa,sBAAsB,CACrF,CAAA;QACD,IAAI,CAAC,IAAI,GAAG,yBAAyB,CAAA;IACvC,CAAC;CACF;AAPD,oDAOC"}

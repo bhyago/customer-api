@@ -1,0 +1,1 @@
+{"version":3,"file":"invalid-origin-error.js","sourceRoot":"","sources":["../../../../../src/application/use-cases/errors/invalid-origin-error.ts"],"names":[],"mappings":";;;AAAA,MAAa,kBAAmB,SAAQ,KAAK;IAC3C;QACE,KAAK,CAAC,iBAAiB,CAAC,CAAA;QACxB,IAAI,CAAC,IAAI,GAAG,sBAAsB,CAAA;IACpC,CAAC;CACF;AALD,gDAKC"}
